@@ -9,7 +9,4 @@ It checks for the user in a database.xml file and if exist do appropriate redire
 
 Can be easily optimized for Eclipse
 
-To launch it copy this repository in your own machine and put in URL: http://"IP of your remote machine":8080/FirstPr/ but before you should
-execute this command in Project Repository: 
-
-jar -cvf FirstPr.war *
+To launch it copy this repository in your own machine and put in URL: http://"IP of your remote machine":8080/FirstPr/ 
