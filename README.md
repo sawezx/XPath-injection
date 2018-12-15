@@ -5,7 +5,7 @@ This project was created on DebianServer using ApacheTomcat and JavaServlets
 
 Project already contains code to avoid XPath injection.
 
-It contrlols the user in a database.xml file and if exist do appropriate redirect
+It checks for the user in a database.xml file and if exist do appropriate redirect
 
 Can be easily optimized for Eclipse
 
